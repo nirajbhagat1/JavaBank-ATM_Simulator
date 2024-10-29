@@ -34,3 +34,9 @@ The JavaBank ATM Simulator is divided into two main modules:
 JavaBank is a functional ATM simulation, demonstrating how a Java application can interact with a database to provide secure, real-time banking operations. This project serves as a practical example of using Java for GUI development and MySQL for backend data storage, offering a simple yet effective approach to understanding banking operations in software form.
 
 ---
+![image](https://github.com/user-attachments/assets/559d148a-30a9-4e5a-9179-b6845e667462) ![image](https://github.com/user-attachments/assets/69926203-cdb9-440f-a416-2282cf1da2f1) ![image](https://github.com/user-attachments/assets/011e6478-3c00-47a7-a31d-52ac46613de7) ![image](https://github.com/user-attachments/assets/8fe895b6-d991-4ca4-967e-4e1550e47054) ![image](https://github.com/user-attachments/assets/fc4dee13-b007-4376-82e2-921bf01f5398) ![image](https://github.com/user-attachments/assets/73790841-462c-40c1-8b05-aafebc895819)
+
+
+![image](https://github.com/user-attachments/assets/c4e3170d-e7aa-46b3-8393-791fefcfd3f9)
+
+
